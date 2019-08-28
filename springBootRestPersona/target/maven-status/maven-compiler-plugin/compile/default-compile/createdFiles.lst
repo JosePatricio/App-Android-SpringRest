@@ -1,0 +1,4 @@
+com\persona\entity\Persona.class
+com\persona\repository\PersonaRepository.class
+com\persona\App.class
+com\persona\controller\PersonaController.class
