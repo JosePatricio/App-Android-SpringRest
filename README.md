@@ -29,7 +29,7 @@ CREATE TABLE persona (
 
 
 ### Paso 2
-Editar el archivo de propiedades de conección de base de datos application.properties (SpringBoot automáticamente toma archivo, asi que no se necesita ninguna configuración desde código)
+Editar el archivo de propiedades de conección de base de datos application.properties (SpringBoot automáticamente toma este archivo, asi que no se necesita ninguna configuración desde código)
 
 
 ### Paso 3
