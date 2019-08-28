@@ -37,7 +37,7 @@ Ejecutar el archivo App.java
 
 
 
-*Para mayor facilidad de instalación de la aplicación los servicios Rest han sido subidos a la nube, la dirección del servicio es https://servrest.herokuapp.com/persona/all, asi que facilmente si pueden hacer pruebas con el archivo APK adjunto. *
+*Para mayor facilidad de instalación de la aplicación los servicios Rest han sido subidos a la nube, la dirección del servicio es https://servrest.herokuapp.com/persona/all, asi que facilmente se pueden hacer pruebas con el archivo APK adjunto.*
 
 
 
