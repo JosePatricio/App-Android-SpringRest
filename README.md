@@ -1,4 +1,7 @@
 ## Intalación de la aplicación android
+<img src="https://raw.githubusercontent.com/JosePatricio/App-Android-SpringRest/master/xOtvYY_u.png" width="400" />
+
+
 
 ### Opción 1
 Para probar la app, descargar el proyecto y abrirlo desde Android Studio y ejecutarlo en un emulador previamente instalada.
@@ -42,7 +45,6 @@ Ejecutar el archivo App.java
 
 
 ### Realizado por Jose Patricio Isama
-
 
 
 
